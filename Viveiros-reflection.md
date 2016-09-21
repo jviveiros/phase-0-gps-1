@@ -1,5 +1,6 @@
 #Reflections
 
+
 1. What Git concepts were you struggling with prior to the GPS Session?
 2. Initially I was struggling with the idea of fetch / merge vs pull. Ryan cleared this up for me. I got a better understanding of the benefits of fetching vs. pulling.
 3. What concepts were clarified during the GPS? *Learning how to do an inline image in Markdown was very helpful. I was completely lost on how to do it.
